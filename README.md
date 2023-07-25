@@ -15,7 +15,7 @@ io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_
 
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/kemal-özcann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178 /svg/Social/linked-in-alt.svg" alt="linkedin.com/in/kemal-özcann/" height="30" width="40" /></a> </p> <h3 align="left">Diller ve Araçlar:</h3> <p align=" left
+<a href="https://linkedin.com/in/kemalozcann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178 /svg/Social/linked-in-alt.svg" alt="linkedin.com/in/kemal-özcann/" height="30" width="40" /></a> </p> <h3 align="left">Diller ve Araçlar:</h3> <p align=" left
 
 "
 >
