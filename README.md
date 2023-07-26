@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 📚 Machine Learning<br>- 📚 Deep Learning<br>- 📚 QT<br>- 📚 Django</p>
+<p align="left">- 📚 Machine Learning<br>- 📚 Deep Learning<br>- 📚 QT <br>- 📚 Django</p>
 
 ###
 
