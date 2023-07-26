@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 this is KEMAL ÖZCAN</h1>
+<h1 align="center">Hi there 👋 this is KEMAL ÖZCAN</h1>
 
 ###
 
